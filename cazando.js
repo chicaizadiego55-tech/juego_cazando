@@ -23,6 +23,7 @@ function graficarGato() {
     //color del gato
     let colorG= "#1900ff";
     graficarRectangulo(gatoX, gatoY, anchoGato,altoGato, colorG);
+    console.log('hola');
 }
  
 function graficarComida() {
